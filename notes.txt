@@ -1,0 +1,1 @@
+The time taken to add the square of the digits is log10(n).
